@@ -42,8 +42,15 @@
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" height="50px" width="50px">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" height="50px" width="50px">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" height="50px" width="50px">
+
+### GitHub Stats:
 	
-[![farmaanm's GitHub stats](https://github-readme-stats.vercel.app/api?username=farmaanm)](https://github.com/farmaanm/github-readme-stats)
+<div>
+	<img alt="Farmaan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=farmaanm&show_icons=true&count_private=true&theme=algolia" height="192px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farmaanm&show_icons=true&locale=en&layout=compact&theme=algolia" alt="farmaanm" height="192px">
+</div>
+
+
 	
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
