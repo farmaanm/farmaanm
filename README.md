@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Farmaan
 
 - 🎓 An undergraduate at NSBM Green University
-- 🌱 Currently learning Python
-- 🤔 Looking for help with Image Processing
 - 📫 Reach me via farmaan30327@gmail.com
 
 <p align="center">
