@@ -3,9 +3,9 @@
 - 🎓 An undergraduate at NSBM Green University
 - 📫 Reach me via farmaan30327@gmail.com
 
-##<p align="center">
-##  <img  src="https://user-images.githubusercontent.com/77222043/138269105-c37e2784-41aa-40b4-bf93-27a5d5f1d6a3.jpg" width="100%">
-##</p>
+<!--<p align="center">
+  <img  src="https://user-images.githubusercontent.com/77222043/138269105-c37e2784-41aa-40b4-bf93-27a5d5f1d6a3.jpg" width="100%">
+</p>-->
 
 ### Connect with me:
 
