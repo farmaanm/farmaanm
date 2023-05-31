@@ -1,7 +1,9 @@
-### Hi there 👋 I am Farmaan
+### Hi there 👋 I am Farmaan, a
 
-- 🎓 An undergraduate at NSBM Green University
-- 📫 Reach me via farmaan30327@gmail.com
+- 🎓 graduate in Computer Science from University of Plymouth, UK
+- 💻 passionate individual in AI and Machine Learning
+
+📫 Reach me via farmaan30327@gmail.com
 
 <!--<p align="center">
   <img  src="https://user-images.githubusercontent.com/77222043/138269105-c37e2784-41aa-40b4-bf93-27a5d5f1d6a3.jpg" width="100%">
@@ -24,9 +26,6 @@
 		<a href="https://accounts.snapchat.com/accounts/snapcodes?type=svg">
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/ff45bd4d471b133547591ce6221e765bd137a2d5/SVG/Color/Snapchat.svg" height="50px" width="50px" alt="Connect on Snapchat">
     </a>
-		<a href="">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/ff45bd4d471b133547591ce6221e765bd137a2d5/SVG/Color/Skype.svg" height="50px" width="50px" alt="Follow me on Skype">
-    </a>
 		<a href="https://stackoverflow.com/users/17202496/farmaan-m?tab=profile">
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/ff45bd4d471b133547591ce6221e765bd137a2d5/SVG/Color/Stackoverflow.svg" height="50px" width="50px" alt="Follow me on Stackoverflow">
     </a>
@@ -37,15 +36,18 @@
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" height="50px" width="50px"><img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" height="50px" width="50px">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" height="50px" width="50px" >
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="50px" width="50px" >
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="50px" width="50px" >
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" height="50px" width="50px" >
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" height="50px" width="50px">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" height="50px" width="50px">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" height="50px" width="50px">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" height="50px" width="50px">
-<img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" height="50px" width="50px">
-<img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" height="50px" width="50px">
-<img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" height="50px" width="50px">
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" height="50px" width="50px">
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" height="50px" width="50px">
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" height="50px" width="50px">
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" height="50px" width="50px">
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" height="50px" width="50px">
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" height="50px" width="50px">
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" height="50px" width="50px">
 
 ### My GitHub Stats:
 	
